@@ -1,4 +1,4 @@
-const baseURL = "https://backlab1516dawa-production.up.railway.app";
+const baseURL = "http://localhost:6005";
 
 export const get = async (url) => {
   try {
